@@ -21,9 +21,8 @@
 }
 
 [theme='light'] {
-    --bg-color: #ffffff
+    --bg-color: #ffffff;
     --form-bg: #252525;
-
 }
 
 
