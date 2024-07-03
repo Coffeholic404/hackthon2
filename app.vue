@@ -4,7 +4,7 @@ useHead({
   title: "IOT Home",
   htmlAttrs: {
     lang: "ar",
-    dir: "rtl",
+    dir: "ltr",
   },
   style: [
   ],

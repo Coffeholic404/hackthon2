@@ -46,3 +46,21 @@ body {
         grid-column: 2/3;
     }
 }
+
+.toogleside {
+    left: 0 !important;
+}
+
+@media (min-width: 424px) and (max-width:768px) {
+    .app-wrapper {
+        display: block;
+        position: relative;
+
+        .sidebar {
+            width: 100%;
+            max-width: 50vi;
+            position: absolute;
+            left: -30rem;
+        }
+    }
+}
